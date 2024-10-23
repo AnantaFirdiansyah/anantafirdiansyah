@@ -1,4 +1,8 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y3NzFtMnZub2RiaDNicXRiMmZ0c3N3bDRndmxub2hkOTNvc2Z0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)]()
+<div align="center>
+  [![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y3NzFtMnZub2RiaDNicXRiMmZ0c3N3bDRndmxub2hkOTNvc2Z0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)]()
+
+  </div>
+
 
 <h1 align="center">Hi 👋, I'm Ananta Firdiansyah</h1>
 <h3 align="center">A Informatics student from Indonesia</h3>
