@@ -8,6 +8,8 @@
 <h1 align="center">Hi 👋, I'm Ananta Firdiansyah</h1>
 <h3 align="center">A Informatics student from Indonesia</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/enabled_lo/564x/6c/b8/a8/6cb8a877aae32a36ff7ea3252eb97870.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantafirdiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="anantafirdiansyah" /> </p>
 
 - 📫 How to reach me **firdiansyahananta07@gmail.com**
